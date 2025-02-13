@@ -1,4 +1,4 @@
-# React E-Commerce Application with Vite
+# Copper Digital Assignment
 
 This project is a React application bootstrapped with Vite. It fetches data from the Fake Store API to display products, features a responsive design, allows users to manage inventory, favorite products using local storage, and includes filtering, searching, sorting, and cart functionalities.
 
